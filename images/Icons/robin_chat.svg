@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100%" height="100%" viewBox="0 0 68 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/Robofin chat Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-11.7%" y="-8.3%" width="123.3%" height="123.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <circle id="path-2" cx="30" cy="30" r="30"></circle>
+        <polygon id="path-4" points="0 0.267338028 56.732662 0.267338028 56.732662 56.951831 0 56.951831"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-476.000000, -296.000000)">
+            <g id="Content" transform="translate(249.000000, 91.000000)">
+                <g id="1" transform="translate(231.000000, 163.000000)">
+                    <g id="Chat">
+                        <g id="Icons/Robofin-chat" transform="translate(0.000000, 44.000000)">
+                            <g filter="url(#filter-1)">
+                                <mask id="mask-3" fill="white">
+                                    <use xlink:href="#path-2"></use>
+                                </mask>
+                                <use id="Mask" fill="#59B3FF" xlink:href="#path-2"></use>
+                                <g id="Icons/robofin" mask="url(#mask-3)">
+                                    <g transform="translate(2.666667, 1.333333)">
+                                        <g>
+                                            <g id="Group-3">
+                                                <mask id="mask-5" fill="white">
+                                                    <use xlink:href="#path-4"></use>
+                                                </mask>
+                                                <g id="Clip-2"></g>
+                                                <path d="M52.181493,57 L4.55116901,57 C2.04798592,57 0,54.9520141 0,52.448831 L0,4.81930986 C0,2.31612676 2.04798592,0.267338028 4.55116901,0.267338028 L52.181493,0.267338028 C54.6846761,0.267338028 56.732662,2.31612676 56.732662,4.81930986 L56.732662,52.448831 C56.732662,54.9520141 54.6846761,57 52.181493,57" id="Fill-1" fill="#59B3FF" mask="url(#mask-5)"></path>
+                                            </g>
+                                            <path d="M35.2779208,41.2758621 L19.7574377,41.2758621 C14.2964135,41.2758621 9.82758621,37.3172535 9.82758621,32.4787818 L9.82758621,24.5212182 C9.82758621,19.6827465 14.2964135,15.7241379 19.7574377,15.7241379 L35.2779208,15.7241379 C40.738945,15.7241379 45.2068966,19.6827465 45.2068966,24.5212182 L45.2068966,32.4787818 C45.2068966,37.3172535 40.738945,41.2758621 35.2779208,41.2758621" id="Fill-4" fill="#FFFFFE"></path>
+                                            <path d="M35.1831569,35.3793103 L20.637532,35.3793103 C18.1513321,35.3793103 16.117241,33.45336 16.117241,31.1002593 L16.117241,25.898986 C16.117241,23.5458853 18.1513321,21.6206897 20.637532,21.6206897 L35.1831569,21.6206897 C37.6693568,21.6206897 39.7034479,23.5458853 39.7034479,25.898986 L39.7034479,31.1002593 C39.7034479,33.45336 37.6693568,35.3793103 35.1831569,35.3793103" id="Fill-5" fill="#59B3FF"></path>
+                                            <path d="M27.5172414,28.5 C27.5172414,30.129005 26.1979705,31.4482759 24.5698581,31.4482759 C22.9399605,31.4482759 21.6206897,30.129005 21.6206897,28.5 C21.6206897,26.8718876 22.9399605,25.5517241 24.5698581,25.5517241 C26.1979705,25.5517241 27.5172414,26.8718876 27.5172414,28.5" id="Fill-6" fill="#FFFFFE"></path>
+                                            <path d="M35.3793103,28.5 C35.3793103,30.129005 34.0600395,31.4482759 32.4319271,31.4482759 C30.8029221,31.4482759 29.4827586,30.129005 29.4827586,28.5 C29.4827586,26.8718876 30.8029221,25.5517241 32.4319271,25.5517241 C34.0600395,25.5517241 35.3793103,26.8718876 35.3793103,28.5" id="Fill-7" fill="#FFFFFE"></path>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 68 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/Robofin chat</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="30" cy="30" r="30"></circle>
+        <filter x="-11.7%" y="-8.3%" width="123.3%" height="123.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-476.000000, -296.000000)">
+            <g id="Content" transform="translate(249.000000, 91.000000)">
+                <g id="1" transform="translate(231.000000, 163.000000)">
+                    <g id="Chat">
+                        <g id="Icons/Robofin-chat" transform="translate(0.000000, 44.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Mask">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                                <use fill="#59B3FF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            </g>
+                            <path d="M38.1508911,42.8505747 L22.5396449,42.8505747 C17.0466849,42.8505747 12.5517241,38.8688164 12.5517241,34.0020495 L12.5517241,25.9979505 C12.5517241,21.1311836 17.0466849,17.1494253 22.5396449,17.1494253 L38.1508911,17.1494253 C43.6438511,17.1494253 48.137931,21.1311836 48.137931,25.9979505 L48.137931,34.0020495 C48.137931,38.8688164 43.6438511,42.8505747 38.1508911,42.8505747" id="Fill-4" fill="#FFFFFE" mask="url(#mask-2)"></path>
+                            <path d="M38.0555731,36.9195402 L23.424886,36.9195402 C20.9241469,36.9195402 18.8781605,34.9823271 18.8781605,32.6154655 L18.8781605,27.3837754 C18.8781605,25.0169138 20.9241469,23.0804598 23.424886,23.0804598 L38.0555731,23.0804598 C40.5563121,23.0804598 42.6022985,25.0169138 42.6022985,27.3837754 L42.6022985,32.6154655 C42.6022985,34.9823271 40.5563121,36.9195402 38.0555731,36.9195402" id="Fill-5" fill="#59B3FF" mask="url(#mask-2)"></path>
+                            <path d="M30.3448276,30 C30.3448276,31.6385313 29.0178417,32.9655172 27.3802082,32.9655172 C25.740779,32.9655172 24.4137931,31.6385313 24.4137931,30 C24.4137931,28.3623665 25.740779,27.0344828 27.3802082,27.0344828 C29.0178417,27.0344828 30.3448276,28.3623665 30.3448276,30" id="Fill-6" fill="#FFFFFE" mask="url(#mask-2)"></path>
+                            <path d="M38.2528736,30 C38.2528736,31.6385313 36.9258876,32.9655172 35.2882541,32.9655172 C33.6497228,32.9655172 32.3218391,31.6385313 32.3218391,30 C32.3218391,28.3623665 33.6497228,27.0344828 35.2882541,27.0344828 C36.9258876,27.0344828 38.2528736,28.3623665 38.2528736,30" id="Fill-7" fill="#FFFFFE" mask="url(#mask-2)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
